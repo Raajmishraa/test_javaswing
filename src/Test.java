@@ -37,4 +37,12 @@ public class Test {
     public void setClickButton(JButton clickButton) {
         this.clickButton = clickButton;
     }
+
+    public AbstractButton getTxtFirstName() {
+        return null;
+    }
+
+    public AbstractButton getTxtLastName() {
+        return null;
+    }
 }

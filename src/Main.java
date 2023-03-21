@@ -10,7 +10,7 @@ public class Main {
         Controller c = new Controller(m,t);
 
         c.initcontroller();
-        JFrame frame = new JFrame("My mvc");
+        JFrame frame = new JFrame("My MVC");
         frame.setContentPane(t.getPanelTest());
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
