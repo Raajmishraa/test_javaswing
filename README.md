@@ -1,1 +1,1 @@
-# test_javaswing
+# test-javaswing
